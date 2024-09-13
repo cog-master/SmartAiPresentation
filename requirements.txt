@@ -1,0 +1,9 @@
+cvzone
+opencv-python
+pdf2image
+python-dotenv
+python-pptx
+mediapipe
+python-pptx-interface
+google-generativeai
+ 
